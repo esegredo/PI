@@ -1,3 +1,4 @@
+# Esto es una prueba de branching y merging
 class RockPaperScissorsGame
   def initialize()
     @pieces = %w[rock paper scissors]
